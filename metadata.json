@@ -1,0 +1,5 @@
+{
+  "name": "Portfolio Pilot",
+  "description": "An AI-powered DeFi portfolio manager on Flow using native scheduled transactions and Lit Protocol for secure, delegated execution.",
+  "requestFramePermissions": []
+}
